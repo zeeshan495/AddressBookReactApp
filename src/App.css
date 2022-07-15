@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: gray;
+}
+ul li {
+  list-style: none;
+}
